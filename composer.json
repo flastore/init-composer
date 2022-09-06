@@ -1,0 +1,19 @@
+{
+  "name": "flastore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/flastore",
+  "keywords": ["flastore", "init-composer"],
+  "support": {
+    "source": "https://github.com/flastore/init-composer",
+    "issues": "https://github.com/flastore/init-composer/issues",
+    "docs": "https://github.com/flastore/init-composer/wiki",
+    "forum": "https://github.com/flastore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
